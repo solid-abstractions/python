@@ -1,0 +1,20 @@
+# Code cache
+__pycache__/
+*.so
+
+# Runtime
+.cache
+.coverage
+.coverage.*
+.env/
+env/
+*.log
+.pytest_*/
+.tox/
+.venv/
+venv/
+
+# Packaging
+build/
+*.egg-info/
+.eggs/
