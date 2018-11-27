@@ -1,0 +1,4 @@
+aiohttp
+cryptography
+pytest
+pytest-asyncio
